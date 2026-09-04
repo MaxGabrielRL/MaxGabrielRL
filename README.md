@@ -19,7 +19,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 ## Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=MaxGabrielRL&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=MaxGabrielRL&theme=tokyonight)
 
 ---
 
