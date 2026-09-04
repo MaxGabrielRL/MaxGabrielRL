@@ -1,6 +1,7 @@
 # Olá, eu sou Max Gabriel Lemos 😎
-**Estudante de Desenvolvimento de Sistemas | Focado em Python, HTML e CSS |
-Preparando-se para o mercado de tecnologia**
+**Estudante de Desenvolvimento de Sistemas
+🤖 Focado em Python, HTML e CSS
+🛸 Rumo ao mercado de tecnologia**
 ---
 ## Sobre mim
 - Atualmente cursando **Técnico em Desenvolvimento de Sistemas**
